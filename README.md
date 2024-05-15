@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Amanullah Parvez (@amanullahradiant)
+- 👋 Hi, I’m Md Amanullah Parvez 
 - 👀 I’m interested in web app development. I explore different stacks and frameworks
 - 🌱 I’m currently learning django and laravel
 - 💞️ I’m looking to collaborate on business solutions
